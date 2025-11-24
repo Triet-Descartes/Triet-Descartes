@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- I'm a second-year student at the University of Science (HCMUS) majoring in Artificial Intelligence.
+- I'm currently learning fundamental AI, ML, and programming concepts.
+- I mainly use Python, Git/GitHub, VS Code and Google Colab in my projects.
+- You can reach me at: triettrinhvy@gmail.com
 <!--
 **Triet-Descartes/Triet-Descartes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
